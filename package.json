@@ -1,0 +1,1 @@
+{"description":"Guestbook service for the Angeles Productions Arcade — no accounts, entries stored in Upstash Redis.","engines":{"node":">=18"},"main":"server.js","name":"angeles-arcade-guestbook","private":true,"scripts":{"start":"node server.js"},"type":"module","version":"1.0.0"}
